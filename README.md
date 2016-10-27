@@ -1,6 +1,6 @@
-sn_pr_1516
+sn_pr_1617
 ==========
 
-Code for the PR Sensor Networks WS 2015/2016
+Code for the PR Sensor Networks WS 2016/2017
 
 Lab session app code
